@@ -1,16 +1,31 @@
-## Hi there 👋
+# Sergey Veselov - Fullstack Developer
 
-<!--
-**neodin2015/neodin2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Sergey Veselov, a Fullstack Developer with over 5+ years of professional experience. I specialize in building and optimizing web applications using modern technologies and frameworks. My main focus is on delivering scalable, high-performance, and reliable solutions. I have experience leading small teams and working closely with clients to meet business requirements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Location**: Astana, Kazakhstan
+- **Languages**: Russian (native), English (working proficiency)
+- **Contact**: thewixton@gmail.com
+
+## Skills
+
+### Frontend:
+- **React**, **Vue.js**, **Nuxt.js**, **Next.js**
+- **JavaScript (ES6+)**, **TypeScript**
+- **Redux**, **MobX**, **Zustand**, **Vuex**, **Pinia**
+- **React Native** (iOS/Android)
+- **Feature Sliced Design**
+
+### Backend:
+- **Node.js**, **Express.js**, **Nest.js**
+- **Prisma**, **Sequelize**, **Knex**
+- **MySQL**, **MariaDB**, **Postgres**, **Redis**
+- **BullMQ** (task queue management)
+
+### Tools & Technologies:
+- **Docker**, **GitLab CI/CD**, **Github Actions**
+- **Jest**, **React Testing Library**
+- **ESlint**
+- **Chakra UI**, **Tailwind**, **Material UI**
+- **NGINX**, **Linux(Debian/Ubuntu)**
