@@ -4,8 +4,6 @@
 
 Hello! I'm Sergey Veselov, a Fullstack Developer with over 5+ years of professional experience. I specialize in building and optimizing web applications using modern technologies and frameworks. My main focus is on delivering scalable, high-performance, and reliable solutions. I have experience leading small teams and working closely with clients to meet business requirements.
 
-- **Location**: Astana, Kazakhstan
-- **Languages**: Russian (native), English (working proficiency)
 - **Contact**: thewixton@gmail.com
 
 ## Skills
